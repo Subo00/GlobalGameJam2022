@@ -1,2 +1,2 @@
 # GlobalGameJam2022
-A game me and my friends made in 48 hours.
+Link for the game: https://globalgamejam.org/2022/games/make-n-break-5
